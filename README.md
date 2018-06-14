@@ -4,19 +4,13 @@
 ## 概述
 
 > 本仓库搜集了上述三个公众号绝大部分历史文章的链接地址，然后建立相关索引。  
-> 最初目的是为了方便自己在电脑上阅读、检索等。
+> 目的仅仅是为了方便自己在电脑上阅读、检索和学习，如有侵权请告知。
 
 索引内容根据公众号主体分为三个部分，每个部分按年份进行二次分类：
 
-* [郭霖](##郭霖)
-  * [2018年](###2018年)
-  * [2017年](###2018年)
-* [鸿洋](##鸿洋)
-  * [2018年](###2018年)
-  * [2017年](###2018年)
-* [玉刚说](##鸿洋)
-  * [2018年](###2018年)
-  * [2017年](###2018年)
+* [郭霖](#郭霖) - 2018年 - 2017年
+* [鸿洋](#鸿洋) - 2018年 - 2017年
+* [玉刚说](#玉刚说) - 2018年 - 2017年
 
 检索技巧：
 * 检索技术关键词，如 `View` `图片` `视频`
@@ -288,21 +282,18 @@
 
 ### 2018年
 
-* [推荐3个优质学习项目](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824916&idx=1&sn=1ccff6303ad80758c3ade3316037769e&chksm=80b7b44ab7c03d5cc03f6d67493cf34ca3fe004858c9ae63f9112f8c53a0d40eb54c9b827983&mpshare=1&scene=1&srcid=0127hCP9FEL4Vveue0bSE5FA#rd)
-* [仿天猫、京东拖拽商品详情](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824901&idx=1&sn=3125688c69c06731f307ceb80b21d89a&chksm=80b7b45bb7c03d4d44171b90a3bb1a5bc17187072f444cf18f89268eb0c3f17a940e7344610d&mpshare=1&scene=1&srcid=01275bw9L9J5pbNrXYR5ptOG#rd)
-* [应该了解的一些并发基础知识](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824896&idx=1&sn=a7d908267a69a58e4634f14b29505100&chksm=80b7b45eb7c03d48b07d9dc1f6fd643c1591d118f468ede4a86e9b85b81defb3dc7d2a033e2c&mpshare=1&scene=1&srcid=0127tMlWmXe3l3i31zb1z859#rd)
-* [九分钟了解区块链](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824894&idx=1&sn=da104fe275ea3658ea90735fb2731942&chksm=80b7b420b7c03d36869676376968fb321cb6eff1386e9be6a344420dedf88c8c8c65fc27f7f4&mpshare=1&scene=1&srcid=0127YERweyZUeYsF4khTeYVT#rd)
-* [这是一份全面 & 详细 的RxJava操作符 使用攻略](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824891&idx=1&sn=d86b4c2215247d78bfa0b60207ae2fe6&chksm=80b7b425b7c03d336e240c7b885b5a326f3c589f22d40a17561938468963bb5321e8413d480c&mpshare=1&scene=1&srcid=0127vya5Qeme78NjSfcz3X7v#rd)
-* [来做一个3D效果的小米指南针](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824882&idx=1&sn=0bbeff9de97e3c03c6396790cc444a49&chksm=80b7b42cb7c03d3a949314734c2b7c83b9934ff79e731473dca63bd65050e8906d032d3413ce&mpshare=1&scene=1&srcid=0127O4tJvFjHE7MrU443qzWu#rd)
-* [Android 混淆查缺补漏](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824879&idx=1&sn=f7d6830cb10046ff61bb461a15353e34&chksm=80b7b431b7c03d271d1d836b586a29f813d738d9b7774075f8b50e7ab0215052c3e075ab71c4&mpshare=1&scene=1&srcid=01277qbQJocxX5t5b05A7kik#rd)
-* [文末福利 | 只送给真正想学英语的你](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824878&idx=2&sn=c05054565104630394d1adb287ec18fc&chksm=80b7b430b7c03d26f334e5b09e295cc8c15d1894347788c26f319e5c08dda75c3fb2702d5203&mpshare=1&scene=1&srcid=0127JcVlYNOAfc9NUaX27zoC#rd)
-* [怎么用Kotlin去提高生产力：Kotlin Tips](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824858&idx=1&sn=7ebead3db1b274e77a0bcafe806b49bc&chksm=80b7b404b7c03d1225b46ee2098b1353d7ad7d8472e3faa93d41eb909eb7a09b1915458174d8&mpshare=1&scene=1&srcid=0127L5x09sBOEI65aH804EbF#rd)
-* [全面总结WebView遇到的坑及优化](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824857&idx=1&sn=4e7b9911c166cbbfbda5d040e8cfd19d&chksm=80b7b407b7c03d1146b5625f029fbe6867acd79188258fac5e5913687dd6db1cec5d4a73459e&mpshare=1&scene=1&srcid=01270iYDf83eAqunKG0t2uXB#rd)
-* [推荐几个技术公众号](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824852&idx=1&sn=c5ed3102f97a7104178cbd973832c1be&chksm=80b7b40ab7c03d1c3e4d5e0c83f88bad513f6d8a53df2427bdca52324801c6b0e0f3c853df33&mpshare=1&scene=1&srcid=0127xZwUjDZGnnxQqWnIMB9p#rd)
-* [乘上这波Apollo无人驾驶红利，成为BAT急需的 AI 人才](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824848&idx=1&sn=5ac5326967d4a7f11948627c98b01480&chksm=80b7b40eb7c03d1855b38cb038ec0cfa46c9a1d4584f370abdde4ff077263d5466f93cbae1eb&mpshare=1&scene=1&srcid=0127h7eltm04Q8a3fIQWLTQk#rd)
-* [推荐几个优质完整项目](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824844&idx=1&sn=35a231b27b6bf2e2168ca7e9ba189afa&chksm=80b7b412b7c03d04a729f5df5966426ac442d90b9eec95a452a2d43fc054a7cc6ee2da16fa38&mpshare=1&scene=1&srcid=0127ndQIA6y9LlrybNYLOcr6#rd)
-* [剖析Activity、Window、ViewRootImpl和View之间的关系](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824823&idx=1&sn=200a77722550561fd8065255dd5d697e&chksm=80b7b4e9b7c03dff80f24065042f40dc8dd7dca58db247976c3c1ae82ce5d52c75cdb2e24777&mpshare=1&scene=1&srcid=0127iCBS55qv0JN5CXiaOP2g#rd)
-* [我的2017总结的笔记](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824820&idx=1&sn=529666f8ea221c72fc77af71a14d9626&chksm=80b7b4eab7c03dfc911ce899366c96afce0067cf50be163b0303bd99688f4f8489b74d72b5b9&mpshare=1&scene=1&srcid=0127cOIgAf10Kx416qikv97O#rd)
+* 2018-01-26 [推荐3个优质学习项目](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824916&idx=1&sn=1ccff6303ad80758c3ade3316037769e&chksm=80b7b44ab7c03d5cc03f6d67493cf34ca3fe004858c9ae63f9112f8c53a0d40eb54c9b827983&mpshare=1&scene=1&srcid=0127hCP9FEL4Vveue0bSE5FA#rd)
+* 2018-01-25 [仿天猫、京东拖拽商品详情](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824901&idx=1&sn=3125688c69c06731f307ceb80b21d89a&chksm=80b7b45bb7c03d4d44171b90a3bb1a5bc17187072f444cf18f89268eb0c3f17a940e7344610d&mpshare=1&scene=1&srcid=01275bw9L9J5pbNrXYR5ptOG#rd)
+* 2018-01-24 [应该了解的一些并发基础知识](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824896&idx=1&sn=a7d908267a69a58e4634f14b29505100&chksm=80b7b45eb7c03d48b07d9dc1f6fd643c1591d118f468ede4a86e9b85b81defb3dc7d2a033e2c&mpshare=1&scene=1&srcid=0127tMlWmXe3l3i31zb1z859#rd)
+* 2018-01-22 [这是一份全面 & 详细 的RxJava操作符 使用攻略](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824891&idx=1&sn=d86b4c2215247d78bfa0b60207ae2fe6&chksm=80b7b425b7c03d336e240c7b885b5a326f3c589f22d40a17561938468963bb5321e8413d480c&mpshare=1&scene=1&srcid=0127vya5Qeme78NjSfcz3X7v#rd)
+* 2018-01-19 [来做一个3D效果的小米指南针](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824882&idx=1&sn=0bbeff9de97e3c03c6396790cc444a49&chksm=80b7b42cb7c03d3a949314734c2b7c83b9934ff79e731473dca63bd65050e8906d032d3413ce&mpshare=1&scene=1&srcid=0127O4tJvFjHE7MrU443qzWu#rd)
+* 2018-01-18 [Android 混淆查缺补漏](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824879&idx=1&sn=f7d6830cb10046ff61bb461a15353e34&chksm=80b7b431b7c03d271d1d836b586a29f813d738d9b7774075f8b50e7ab0215052c3e075ab71c4&mpshare=1&scene=1&srcid=01277qbQJocxX5t5b05A7kik#rd)
+* 2018-01-16 [怎么用Kotlin去提高生产力：Kotlin Tips](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824858&idx=1&sn=7ebead3db1b274e77a0bcafe806b49bc&chksm=80b7b404b7c03d1225b46ee2098b1353d7ad7d8472e3faa93d41eb909eb7a09b1915458174d8&mpshare=1&scene=1&srcid=0127L5x09sBOEI65aH804EbF#rd)
+* 2018-01-15 [全面总结WebView遇到的坑及优化](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824857&idx=1&sn=4e7b9911c166cbbfbda5d040e8cfd19d&chksm=80b7b407b7c03d1146b5625f029fbe6867acd79188258fac5e5913687dd6db1cec5d4a73459e&mpshare=1&scene=1&srcid=01270iYDf83eAqunKG0t2uXB#rd)
+* 2018-01-13 [推荐几个技术公众号](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824852&idx=1&sn=c5ed3102f97a7104178cbd973832c1be&chksm=80b7b40ab7c03d1c3e4d5e0c83f88bad513f6d8a53df2427bdca52324801c6b0e0f3c853df33&mpshare=1&scene=1&srcid=0127xZwUjDZGnnxQqWnIMB9p#rd)
+* 2018-01-11 [推荐几个优质完整项目](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824844&idx=1&sn=35a231b27b6bf2e2168ca7e9ba189afa&chksm=80b7b412b7c03d04a729f5df5966426ac442d90b9eec95a452a2d43fc054a7cc6ee2da16fa38&mpshare=1&scene=1&srcid=0127ndQIA6y9LlrybNYLOcr6#rd)
+* 2018-01-10 [剖析Activity、Window、ViewRootImpl和View之间的关系](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824823&idx=1&sn=200a77722550561fd8065255dd5d697e&chksm=80b7b4e9b7c03dff80f24065042f40dc8dd7dca58db247976c3c1ae82ce5d52c75cdb2e24777&mpshare=1&scene=1&srcid=0127iCBS55qv0JN5CXiaOP2g#rd)
+* 2018-01-09 [我的2017总结的笔记](http://mp.weixin.qq.com/s?__biz=MzAxMTI4MTkwNQ==&mid=2650824820&idx=1&sn=529666f8ea221c72fc77af71a14d9626&chksm=80b7b4eab7c03dfc911ce899366c96afce0067cf50be163b0303bd99688f4f8489b74d72b5b9&mpshare=1&scene=1&srcid=0127cOIgAf10Kx416qikv97O#rd)
 
 ### 2017年
 
